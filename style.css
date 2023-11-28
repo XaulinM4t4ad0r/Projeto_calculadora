@@ -1,0 +1,57 @@
+main {
+    border: solid white 1px;
+    background-color: black;
+    padding: 7px;
+    border-radius: 7px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+} section {
+    border: 1px black solid;
+
+} div button {
+    color: white;
+    border: none;
+    margin-top: 2px;
+    padding: auto;
+    background-color: grey;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+} input {
+    height: 50px;
+    width: 80px;
+    background-color: black;
+    color: white;
+    border: black;
+    text-align: right;
+
+} input:focus {
+    outline: none;
+
+}
+
+body {
+    background-color: black;
+    background-image: url(https://conteudo.imguol.com.br/c/noticias/3b/2017/06/05/calculos-fisica-mateatica-lousa-escola-1496663581536_615x300.jpg) ;
+
+} .btn {
+    color: white;
+    background-color: orange;
+    text-align: center;
+    
+} #btn-c {
+    width: 45px;
+    border-radius: 15px;
+    padding-right: 5px;
+
+} ::placeholder {
+    color: white;
+
+} 
+
+#ac {
+    font-size: 7px;
+}
