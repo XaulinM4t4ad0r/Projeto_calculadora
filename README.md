@@ -17,4 +17,4 @@ eval(código)
 ```
 
 obs: Mesmo sabendo que a função eval não é considerada segura em projetos profissionais, pois ela pode executar 
-códigps maliciosos, esse projeto foi realizado somente para fins didatícos e não será utilizado profiddionalmente.
+códigos maliciosos, esse projeto foi realizado somente para fins didatícos e não será utilizado profissionalmente.
